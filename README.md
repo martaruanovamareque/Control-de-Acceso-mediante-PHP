@@ -50,3 +50,5 @@ En relativo a la base de datos:
     
     Los dos botones añadir y modificar, deberán abrir un formulario en el que se tengan etiquetas y
     cajas de texto para todos los campos de la tabla.
+
+Se adjuntaran capturas de demostración.
